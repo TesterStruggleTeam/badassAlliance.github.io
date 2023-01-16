@@ -1,9 +1,10 @@
 # Menu
 menu:
-  Home: /
-  Archives: /archives
-  Gallery: /gallery
-  About: /about
+  主页: /
+  归档: /archives
+  相册: /gallery
+  开源: /source
+  关于: /about
 rss: /atom.xml
 
 
@@ -24,7 +25,7 @@ excerpt_link: Read More...
 # MIIT ICP/IP/DOMAIN
 beian:
   enable: false
-  number: 
+  number:
   url: https://beian.miit.gov.cn/
 
 # Tags
